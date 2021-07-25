@@ -1,7 +1,7 @@
 # Heroku-deploy-selenium
 Heroku deploy selenium
 
-```java 
+```python 
 (some program code...) 
 ``` 
 
