@@ -1,6 +1,10 @@
 # Heroku-deploy-selenium
 Heroku deploy selenium
-<a name="CodeBlocks"></a> Блоки кода
+
+```java 
+(some program code...) 
+``` 
+
 chrome_options = webdriver.ChromeOptions()
 chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
 chrome_options.add_argument("--headless")
