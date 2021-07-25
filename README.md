@@ -1,7 +1,7 @@
 # Heroku-deploy-selenium
 Heroku deploy selenium
-
-<chrome_options = webdriver.ChromeOptions()>
+<a name="CodeBlocks"></a> Блоки кода
+chrome_options = webdriver.ChromeOptions()
 chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-dev-shm-usage")
