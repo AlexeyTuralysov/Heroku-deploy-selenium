@@ -41,6 +41,12 @@ driver = webdriver.Chrome(options=options)
 
 <img src="img\build.png" alt="build">
 
+```
+Python (там на кнопку нажать)
+https://github.com/heroku/heroku-buildpack-google-chrome
+https://github.com/heroku/heroku-buildpack-chromedriver
+```
+
 
 # REVEAL-CONFIG
 
@@ -64,4 +70,5 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
 ```
+
 # END 
